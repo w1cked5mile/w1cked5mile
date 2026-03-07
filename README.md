@@ -15,7 +15,7 @@
 
 ## 🛠️ What I Build
 
-I live at the intersection of software and hardware — writing scripts that automate the boring stuff, building firmware for embedded systems, and bringing physical things to life with code.
+I love to mess around with software, hardware, and building and designing things — writing scripts that automate the boring stuff, building firmware for embedded systems, and bringing physical things to life with code.
 
 | Domain | Tools & Tech |
 |--------|-------------|
@@ -63,4 +63,3 @@ I live at the intersection of software and hardware — writing scripts that aut
 
 ---
 
-*"If it can be automated, it should be."*
