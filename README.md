@@ -9,7 +9,7 @@
   ╚══╝╚══╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝╚══════╝╚══════╝
 ```
 
-> *Maker. Tinkerer. Automator. Hardware hacker.*
+> *Maker. Tinkerer. Automator. Hardware hacker.*h
 
 ---
 
@@ -20,7 +20,7 @@ I love to mess around with software, hardware, and building and designing things
 | Domain | Tools & Tech |
 |--------|-------------|
 | 🤖 Automation | n8n, Docker, PowerShell, Bash |
-| 🔩 Hardware | Arduino, OpenSCAD, 3D Printing |
+| 🔩 Hardware | ESP32, OpenSCAD, 3D Printing |
 | 🐍 Scripting | Python, PowerShell |
 | 🛡️ Security | DEFCON hardware & firmware projects |
 | 🖨️ Making | Bambu Lab, vCarve, WeCreate CNC |
@@ -43,6 +43,9 @@ I love to mess around with software, hardware, and building and designing things
 
 ### 🎨 [makers-bambu-public](https://github.com/w1cked5mile/makers-bambu-public)
 > Files, profiles, and configs for Bambu Lab 3D printing.
+
+### 📡 [embedded-public](https://github.com/w1cked5mile/embedded-public)
+> ESP32 sketches, firmware, and projects for WiFi/BLE, IoT sensors, and embedded experimentation.
 
 ---
 
